@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Antarikhyat! 🚀
 
-<!--
-**antarikhyatbora-sudo/antarikhyatbora-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Undergraduate @ Assam Engineering College (2024-2028)**
+Currently in **4th Semester** 
 
-Here are some ideas to get you started:
+### 🛠️ Technical Toolkit
+- **Languages:** C++, C, Java, SQL (Learning)
+- **Specialties:** Data Structures, Object-Oriented Design (C++), Algorithm Analysis
+- **Tools:** Git/GitHub, Linux, LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Academic Projects
+- [AEC-OOP-CPP](link): C++ programs covering Pillars of OOP.
+- [AEC-DSA-Foundations](link): Implementation of non-linear data structures.
+
+---
+📫 **Looking for Summer 2026 Internship opportunities!**
+[LinkedIn](https://linkedin.com/in/antarikhyatbora-aec) | antarikhyatbora@gmail.com
