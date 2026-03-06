@@ -1,4 +1,4 @@
-# Hi, I'm Antarikhyat! 🚀
+# Hi, I'm Antarikhya! 🚀
 
 **CSE Undergraduate @ Assam Engineering College (2024-2028)**
 Currently in **4th Semester** 
