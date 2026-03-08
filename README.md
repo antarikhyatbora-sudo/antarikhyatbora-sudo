@@ -1,6 +1,6 @@
 # Hi, I'm Antarikhya! 🚀
 
-**CSE Undergraduate @ Assam Engineering College (2024-2028)**
+**CSE Undergraduate @ Assam Engineering College Batch (2024-2028)**
 Currently in **4th Semester** 
 
 ### 🛠️ Technical Toolkit
